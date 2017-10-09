@@ -1,0 +1,13 @@
+The Matlab script kalmanAuto can be used to find the best
+fit parameters of the model to the behavior data. To see how to use 
+it, type in Matlab: "help kalmanAuto", and to see an example, 
+type:
+"kalmanAuto('example');"
+
+In the tool box, following files should be included:
+
+README                  softmax.m		kalman.m
+kalmanAuto.m		kalmanIndv.m		resultplot.m
+example.mat
+
+For execution, the file README is not necessary.

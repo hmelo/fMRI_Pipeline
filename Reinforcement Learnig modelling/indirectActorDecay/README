@@ -1,0 +1,13 @@
+The Matlab script indirectActorAuto can be used to find the best
+fit parameters of the model to the behavior data. To see how to use 
+it, type in Matlab: "help indirectActor2Auto", and to see an example, 
+type:
+"indirectActor2Auto('example');"
+
+In the tool box, following files should be included:
+
+README                  softmax.m		indirectActor2.m
+indirectActor2Auto.m    indirectActor2Indv.m    resultplot.m
+example.mat
+
+For execution, the file README is not necessary.
